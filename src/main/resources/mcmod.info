@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "bestpossibleluck",
+    "name": "Best Possible Luck",
+    "description": "Coremod experiment for Minecraft 1.12.2 that forces java.util.Random toward maximum-safe outcomes for vanilla and modded RNG calls.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["OpenAI"],
+    "credits": "Created as an experiment in impossible luck.",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
