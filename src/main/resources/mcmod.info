@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "bestpossibleluck",
+    "name": "Best Possible Luck",
+    "description": "Vanilla-focused Minecraft 1.12.2 experiment that biases spawning, projectiles, crops, drops, loot, and world generation events toward lucky outcomes without overriding global Java RNG.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["OpenAI"],
+    "credits": "Created as an experiment in impossible luck.",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
