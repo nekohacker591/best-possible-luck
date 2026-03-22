@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "bestpossibleluck",
+    "name": "Best Possible Luck",
+    "description": "Vanilla-focused Minecraft 1.12.2 experiment with a lucktype gamerule plus per-feature bpl* gamerules for weather, spawns, loot, projectiles, crops, mob variants, fishing, and world generation hooks.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["OpenAI"],
+    "credits": "Created as an experiment in impossible luck.",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
