@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "bestpossibleluck",
+    "name": "Best Possible Luck",
+    "description": "Vanilla-focused Minecraft 1.12.2 experiment with a lucktype gamerule that flips worldgen, spawning, weather, loot, crop, combat, and projectile outcomes between lucky and unlucky modes.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["OpenAI"],
+    "credits": "Created as an experiment in impossible luck.",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
